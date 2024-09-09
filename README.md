@@ -65,3 +65,4 @@ uvicorn main:app --reload
 
 ## Mais detalhes em SQLAdmin
 - https://aminalaee.dev/sqladmin
+- https://github.com/aminalaee/sqladmin
